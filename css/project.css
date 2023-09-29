@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+h2{
+    width: 380px;
+    margin: auto;
+}
+
+body{
+    background-color: #bad8be;
+    transition: 1s;
+}
+
+#container{
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+
+    width: 400px;
+    height: 150px;
+    margin: 250px 440px;
+    background-color: white;
+    
+
+    
+}
+
+button{
+    
+    width: 150px;
+    height: 50px;
+    cursor: pointer;
+    margin: 50px 120px;
+    color: white;
+}
+button:hover{
+    opacity: 0.8;
+}
+
+
+#ramdom{
+    width: 50px;
+    margin: auto;
+}
